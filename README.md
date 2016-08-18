@@ -1,1 +1,1 @@
-feature1 branch created by command
+feature branch created by command
